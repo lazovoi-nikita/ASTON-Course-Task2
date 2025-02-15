@@ -2,6 +2,7 @@
 Homework for the second lesson from the ASTON courses.
 
 This is the second assignment in the ASTON course.
+
 Task: To design a class hierarchy using interfaces and abstract classes.
 <div id="pictures">
     <table>
